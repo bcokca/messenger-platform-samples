@@ -1,6 +1,6 @@
 {
-    "appSecret": "my-app-secret-token",
-    "pageAccessToken": "my-page-access-token",
+    "appSecret": "49f899c9d61c5f834606e59c569a6637",
+    "pageAccessToken": "EAAShMI0CdhgBAETSJWj36RuOlcVVBJlx3dLISZAhDwZCeVzgm0ZAGuRXJiJYGZC5Oo02ftdeMZBBjPEg47qZAsOlgjL1d7811Y9QYo9nsbi01lj2sTS4CR3PPHWaZCp4FOxEL8gEk3mHCR2ZCfB76g7ZB0svcm8JNhskbV1Y8SUmeHgZDZD",
     "validationToken": "my-validation-token",
     "serverURL": "https://sample-ai.herokuapp.com"
 }
