@@ -2,5 +2,5 @@
     "appSecret": "my-app-secret-token",
     "pageAccessToken": "my-page-access-token",
     "validationToken": "my-validation-token",
-    "serverURL": "my-server-url"
+    "serverURL": "https://sample-ai.herokuapp.com"
 }
